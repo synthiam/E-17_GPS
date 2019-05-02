@@ -1,4 +1,4 @@
-# E-17_GPS
+# E-17 GPS
 
 ![GPS](https://live.staticflickr.com/65535/47691864122_4524ba2df8_k.jpg)
 ![GPS](https://live.staticflickr.com/65535/47691864212_29f635baaf_k.jpg)
