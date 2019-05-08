@@ -7,6 +7,8 @@ This is a ez-clip mounting option for the Waveshare GPS NEO-7M-C module.
 
 Wiki: https://www.waveshare.com/wiki/UART_GPS_NEO-7M-C
 
+The EZ-Builder behavior control for this reference design is here: https://synthiam.com/Software/Manual/GPS-16145
+
 ## Contents
 
 **Documentation:** BOM, Assembly Notes
