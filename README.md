@@ -6,7 +6,7 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 ## Description
 
-Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
+Out of our passion to solve the issue of time waste in the robot creation process, ARC was born. The ARC software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
 We didn't stop at the software, we also made time saving hardware solutions. This GPS design is one of them. This is a ez-clip mounting option for the Waveshare GPS NEO-7M-C module. A unique feature of this design is that it allows the GPS antenna to keep pointing skyward while the module is mounted onto a vertical connection. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
@@ -44,9 +44,9 @@ Wiki link for NEO-7M-C module: https://www.waveshare.com/wiki/UART_GPS_NEO-7M-C
 <img src="https://live.staticflickr.com/65535/47691864122_4524ba2df8_k.jpg" width="683" height="383">
 <img src="https://live.staticflickr.com/65535/47691864212_29f635baaf_k.jpg" width="683" height="383"></p>
 
-## EZ-Builder Behavior Control
+## ARC GPS Skill
 
-The EZ-Builder behavior control for this reference design is very easy to use! Simply click on the connect button to get GPS Latitude, Longitude, time, speed, altitude, and satelitte count. 
+The ARC skill for this reference design is very easy to use! Simply click on the connect button to get GPS Latitude, Longitude, time, speed, altitude, and satelitte count. 
 
 Link: https://synthiam.com/Software/Manual/GPS-16145
 
